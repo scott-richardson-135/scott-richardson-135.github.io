@@ -1,6 +1,11 @@
 title: Scott Richardson
 description: Learning Cybersecurity
 theme: minima
+
+minima:
+  skin: dark
+
+
 url: "https://scottrichardsonsec.dev"
 
 author: Scott Richardson
