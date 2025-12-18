@@ -1,0 +1,11 @@
+title: Scott Richardson
+description: Learning Cybersecurity
+theme: minima
+
+author:
+  name: Scott Richardson
+
+markdown: kramdown
+
+plugins:
+ - jekyll-feed
