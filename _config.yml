@@ -1,9 +1,9 @@
 title: Scott Richardson
 description: Learning Cybersecurity
 theme: minima
+url: "https://scottrichardsonsec.dev"
 
-author:
-  name: Scott Richardson
+author: Scott Richardson
 
 markdown: kramdown
 
